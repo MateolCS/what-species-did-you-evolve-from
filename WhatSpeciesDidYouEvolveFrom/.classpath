@@ -6,7 +6,12 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/CLIPSJNI.jar">
+	<classpathentry combineaccessrules="false" kind="src" path="/CLIPSJNI">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CLIPSJNI/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/CLIPSJNI/lib/CLIPSJNI.jar">
 		<attributes>
 			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CLIPSJNI/lib"/>
 		</attributes>
