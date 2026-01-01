@@ -11,7 +11,7 @@ This project implements a rule-based expert system using CLIPS. The system perfo
 
 ## Requirements
     1. JDK 17
-    2. CLIPSJNI version 0.1 
+    2. CLIPSJNI version 6.30
     3. CLIPS version 6.30
 
 
