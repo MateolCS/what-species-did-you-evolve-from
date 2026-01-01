@@ -1,7 +1,6 @@
 import javax.swing.*; 
 import java.awt.*; 
 
-
 public class WhatSpeciesDidYouEveolveFrom {
 	private QuestionEngine engine;
 	private JFrame frame;
@@ -21,6 +20,7 @@ public class WhatSpeciesDidYouEveolveFrom {
 	 
 	 public void start() throws Exception {
 	        engine = new QuestionEngine();
+	        
 	        buildUI();
 	        refresh();
 	    }
