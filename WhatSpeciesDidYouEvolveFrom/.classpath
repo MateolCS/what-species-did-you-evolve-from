@@ -6,14 +6,9 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry combineaccessrules="false" kind="src" path="/CLIPSJNI">
+	<classpathentry kind="lib" path="C:/Coding/AI/what-species-did-you-evolve-from/WhatSpeciesDidYouEvolveFrom/lib/CLIPSJNI.jar">
 		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CLIPSJNI/lib"/>
-		</attributes>
-	</classpathentry>
-	<classpathentry kind="lib" path="/CLIPSJNI/lib/CLIPSJNI.jar">
-		<attributes>
-			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="CLIPSJNI/lib"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="WhatSpeciesDidYouEvolveFrom/lib"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="bin"/>
